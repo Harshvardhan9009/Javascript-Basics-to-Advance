@@ -1,7 +1,7 @@
 const accountId = 144553
 let accountEmail = "harshsalunkhe99@gmail.com"
 var accountPassword = "12345"
-accountId = "Jaipur"
+var accountCity = "Jaipur"
 let accountState;
 
 // accountId = 2 // not allowed
