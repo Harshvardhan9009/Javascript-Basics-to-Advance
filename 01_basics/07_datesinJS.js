@@ -22,7 +22,10 @@ console.log(newDate);
 console.log(newDate.getMonth()+ 1);
 console.log(newDate.getDay());
 
-newDate.toLocaleString('default',{
+newDate.toLocaleString('default', {
     weekday: "long",
 
 })
+
+
+
